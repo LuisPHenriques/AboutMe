@@ -1,6 +1,7 @@
 # AboutMe
 
 Hi there 👋
+
 ![Header](./github-header-image.png)
 
 With a Bachelor's Degree in Management, and as a current Data Science and Engineering Master Student at FEUP, my goal is to become a Data Scientist with a business and added value perspectives very much required for this role, in the short-term.
