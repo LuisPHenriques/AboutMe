@@ -1,6 +1,7 @@
 # AboutMe
 
 Hi there 👋
+
 With a Bachelor's Degree in Management, and as a current Data Science and Engineering Master Student at FEUP, my goal is to become a Data Scientist with a business and added value perspectives very much required for this role, in the short-term.
 
 In the long-term I'm aiming to become a Project Manager (or Portfolio Manager) regarding Data Science projects. After all the knowledge I acquired through this ambitious journey, I want to achieve the top rankings of a company's organogram, applying my corporate and data science perspectives in driving the company foward, always striving for excellence.
