@@ -12,9 +12,11 @@ I'm Luís Henriques, a master's student of data science, as well as a research f
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Tensorflow-c58545?style=for-the-badge&logo=tensorflow&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-SQL-d1a01f?style=for-the-badge&logo=postgresql&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tensorflow-F2B705?style=for-the-badge&logo=tensorflow&logoColor=F28705&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-398CBF?style=for-the-badge&logo=python&logoColor=F2BD1D&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Anaconda-9BBF65?style=for-the-badge&logo=anaconda&logoColor=459451&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jupyter-BFBFBF?style=for-the-badge&logo=jupyter&logoColor=F28705&labelColor=282828">
+  <img src="https://img.shields.io/badge/-SQL-004E7F?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=282828">
 </div>
 </p>
 
