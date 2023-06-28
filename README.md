@@ -35,20 +35,6 @@ if __name__ == '__main__':
     me = LuisHenriques()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 With a Bachelor's Degree in Management, and as a current Data Science and Engineering Master Student at FEUP, my goal is to become a Data Scientist with a business and added value perspectives very much required for this role, in the short-term.
 
 In the long-term I'm aiming to become a Project Manager (or Portfolio Manager) regarding Data Science projects. After all the knowledge I acquired through this ambitious journey, I want to achieve the top rankings of a company's organogram, applying my corporate and data science perspectives in driving the company foward, always striving for excellence.
