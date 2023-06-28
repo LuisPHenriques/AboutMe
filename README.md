@@ -2,7 +2,52 @@
 
 ## Hi there 👋
 
-![Header](./github-header-image.png)
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
+
+I'm Luís Henriques, a master's student of data science, as well as a research fellow (research grantee), currently living in Porto, Portugal. I'm preparing for my second year of my degree and adquiring new knowledge, while robusting the current one,in data science topics and tools.
+
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+```python
+class LuisHenriques():
+    
+  def __init__(self):
+    self.name = "Luís Henriques";
+    self.username = "LuisPHenriques";
+    self.location = "Porto, Portugal";
+    self.linkedin = "https://www.linkedin.com/in/luisfphenriques";
+    self.kaggle = "https://www.kaggle.com/lushenriques";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = LuisHenriques()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
 With a Bachelor's Degree in Management, and as a current Data Science and Engineering Master Student at FEUP, my goal is to become a Data Scientist with a business and added value perspectives very much required for this role, in the short-term.
 
