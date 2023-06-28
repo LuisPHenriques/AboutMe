@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Luís henriques</b>
 </h1>
 
 I'm Luís Henriques, a master's student of data science, as well as a research fellow (research grantee), currently living in Porto, Portugal. I'm preparing for my second year of my degree and adquiring new knowledge, while robusting the current one,in data science topics and tools.
@@ -12,8 +12,8 @@ I'm Luís Henriques, a master's student of data science, as well as a research f
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tensorflow-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-SQL-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
