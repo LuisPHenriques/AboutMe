@@ -4,7 +4,7 @@
   <b>Luís Henriques</b>
 </h1>
 
-I'm Luís Henriques, a master's student of data science, as well as a research fellow (research grantee), currently living in Porto, Portugal. I'm preparing for my second year of my degree and adquiring new knowledge, while robusting the current one,in data science topics and tools.
+I'm Luís Henriques, a master's student of data science, as well as a research fellow (research grantee), currently living in Porto, Portugal. I'm preparing for my second year of my degree and adquiring new knowledge, while robusting the current one, in data science topics and tools like time-series forecasting, sequence modeling, and NLP.
 
 <br>
 
